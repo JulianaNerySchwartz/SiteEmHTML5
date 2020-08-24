@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+/* Formatação da Multimídia */
+div#tv-radio {
+    width: 900px;
+    height: 580px;
+    margin: auto;
+    background: url(../_imagens/radio-tv.png) no-repeat;
+}
+
+audio#musica {
+    display: block;
+    position: relative;
+    left: 575px;
+    top: 500px;
+    width: 300px;
+}
+video#filme {
+    display: block;
+    position: relative;
+    left: 90px;
+    top: 85px;
+    width: 440px;
+}
+
+/* Formatação do Index */
+
+video#video01 {
+    display: block;
+    position: relative;
+    left: 30px;
+    top: -10px;
+    width: 440px;
+}
+video#video02 {
+    display: block;
+    position: relative;
+    left: 15px;
+    top: 0px;
+    width: 320px;
+}
